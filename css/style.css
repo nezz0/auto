@@ -158,6 +158,10 @@ body {
   display: table;
   clear: both;
 }
+.section9 {
+	background-color: lightgrey;
+	height: 30em;
+}
 h4 {
 	font-family: 'Bebas', sans-serif;
 	font-size: 2em;
@@ -181,6 +185,19 @@ h4 {
 	margin-top: 3em;
 	width: 77%;
 	
+}
+.contacts {
+	text-align: center;
+	margin-top: 2em;
+	font-size: 1.25em;
+}
+.contacts b {
+	font-family: BebasBold;
+	font-size: 1.1em;
+	line-height: 1.8em;
+}
+.contacts img {
+	height: 1em;
 }
 .section10 {
 	background-image: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)), url("../images/"); 	
